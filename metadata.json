@@ -1,0 +1,5 @@
+{
+  "name": "CardioMetAge Clock",
+  "description": "A sophisticated cardiometabolic health calculator based on advanced biomarkers to estimate biological age and early disease risk.",
+  "requestFramePermissions": []
+}
